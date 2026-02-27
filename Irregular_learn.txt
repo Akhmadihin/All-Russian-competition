@@ -1,0 +1,118 @@
+Возникать – arise /əˈraɪz/ – arose /əˈrəʊz/ – arisen /əˈrɪz(ə)n/
+Будить, просыпаться – awake /əˈweɪk/ – awoke /əˈwəʊk/ – awoken /əˈwəʊkən/ (awaked)
+Быть – be /biː/ – was /wɒz, wəz/ (were /wɜː(r)/) – been /bɪn, biːn/
+Становиться – become /bɪˈkʌm/ – became /bɪˈkeɪm/ – become /bɪˈkʌm/
+Начинать – begin /bɪˈɡɪn/ – began /bɪˈɡæn/ – begun /bɪˈɡʌn/
+Гнуть – bend /bend/ – bent /bent/ – bent /bent/
+Связывать, привязывать – bind /baɪnd/ – bound /baʊnd/ – bound /baʊnd/
+Кусать, кусаться – bite /baɪt/ – bit /bɪt/ – bitten /ˈbɪt(ə)n/
+Кровоточить – bleed /bliːd/ – bled /bled/ – bled /bled/
+Дуть – blow /bləʊ/ – blew /bluː/ – blown /bləʊn/
+Ломать(ся) – break /breɪk/ – broke /brəʊk/ – broken /ˈbrəʊkən/
+Приносить – bring /brɪŋ/ – brought /brɔːt/ – brought /brɔːt/
+Строить – build /bɪld/ – built /bɪlt/ – built /bɪlt/
+Жечь, гореть – burn /bɜːn/ – burnt /bɜːnt/ (burned) – burnt /bɜːnt/ (burned)
+Покупать – buy /baɪ/ – bought /bɔːt/ – bought /bɔːt/
+Ловить, хватать – catch /kætʃ/ – caught /kɔːt/ – caught /kɔːt/
+Выбирать – choose /tʃuːz/ – chose /tʃəʊz/ – chosen /ˈtʃəʊz(ə)n/
+Приходить – come /kʌm/ – came /keɪm/ – come /kʌm/
+Стоить – cost /kɒst/ – cost /kɒst/ – cost /kɒst/
+Ползать, пресмыкаться – creep /kriːp/ – crept /krept/ – crept /krept/
+Резать – cut /kʌt/ – cut /kʌt/ – cut /kʌt/
+Делать – do /duː/ – did /dɪd/ – done /dʌn/
+Рисовать, тащить – draw /drɔː/ – drew /druː/ – drawn /drɔːn/
+Мечтать, грезить – dream /driːm/ – dreamt /dremt/ (dreamed /driːmd/) – dreamt /dremt/ (dreamed /driːmd/)
+Пить – drink /drɪŋk/ – drank /dræŋk/ – drunk /drʌŋk/
+Водить (машину) – drive /draɪv/ – drove /drəʊv/ – driven /ˈdrɪv(ə)n/
+Есть – eat /iːt/ – ate /et, eɪt/ – eaten /ˈiːt(ə)n/
+Падать – fall /fɔːl/ – fell /fel/ – fallen /ˈfɔːlən/
+Кормить – feed /fiːd/ – fed /fed/ – fed /fed/
+Чувствовать – feel /fiːl/ – felt /felt/ – felt /felt/
+Сражаться – fight /faɪt/ – fought /fɔːt/ – fought /fɔːt/
+Находить – find /faɪnd/ – found /faʊnd/ – found /faʊnd/
+Улетать, летать – fly /flaɪ/ – flew /fluː/ – flown /fləʊn/
+Запрещать – forbid /fəˈbɪd/ – forbade /fəˈbæd/ – forbidden /fəˈbɪd(ə)n/
+Забывать – forget /fəˈɡet/ – forgot /fəˈɡɒt/ – forgotten /fəˈɡɒt(ə)n/
+Прощать – forgive /fəˈɡɪv/ – forgave /fəˈɡeɪv/ – forgiven /fəˈɡɪv(ə)n/
+Замёрзнуть, замораживать – freeze /friːz/ – froze /frəʊz/ – frozen /ˈfrəʊz(ə)n/
+Получать, становиться – get /ɡet/ – got /ɡɒt/ – got /ɡɒt/ (gotten /ˈɡɒt(ə)n/)
+Давать – give /ɡɪv/ – gave /ɡeɪv/ – given /ˈɡɪv(ə)n/
+Идти, уходить – go /ɡəʊ/ – went /went/ – gone /ɡɒn/
+Молоть, точить – grind /ɡraɪnd/ – ground /ɡraʊnd/ – ground /ɡraʊnd/
+Расти, выращивать – grow /ɡrəʊ/ – grew /ɡruː/ – grown /ɡrəʊn/
+Висеть – hang /hæŋ/ – hung /hʌŋ/ – hung /hʌŋ/
+Иметь – have /hæv/ – had /hæd/ – had /hæd/
+Слышать – hear /hɪə(r)/ – heard /hɜːd/ – heard /hɜːd/
+Прятать(ся) – hide /haɪd/ – hid /hɪd/ – hidden /ˈhɪd(ə)n/
+Бить, ударять – hit /hɪt/ – hit /hɪt/ – hit /hɪt/
+Держать – hold /həʊld/ – held /held/ – held /held/
+Причинять боль, ушибить – hurt /hɜːt/ – hurt /hɜːt/ – hurt /hɜːt/
+Сохранять, продолжать – keep /kiːp/ – kept /kept/ – kept /kept/
+Становиться на колени – kneel /niːl/ – knelt /nelt/ (kneeled) – knelt /nelt/ (kneeled)
+Знать, уметь – know /nəʊ/ – knew /njuː/ – known /nəʊn/
+Класть, положить – lay /leɪ/ – laid /leɪd/ – laid /leɪd/
+Вести, руководить – lead /liːd/ – led /led/ – led /led/
+Наклоняться, опираться – lean /liːn/ – leant /lent/ (leaned) – leant /lent/ (leaned)
+Узнавать, учить(ся) – learn /lɜːn/ – learnt /lɜːnt/ (learned /lɜːnd/) – learnt /lɜːnt/ (learned /lɜːnd/)
+Уходить, оставлять – leave /liːv/ – left /left/ – left /left/
+Давать взаймы – lend /lend/ – lent /lent/ – lent /lent/
+Позволять, сдавать – let /let/ – let /let/ – let /let/
+Лежать – lie /laɪ/ – lay /leɪ/ – lain /leɪn/
+Зажигать, светить – light /laɪt/ – lit /lɪt/ (lighted) – lit /lɪt/ (lighted)
+Терять – lose /luːz/ – lost /lɒst/ – lost /lɒst/
+Делать, изготавливать – make /meɪk/ – made /meɪd/ – made /meɪd/
+Значить, иметь в виду – mean /miːn/ – meant /ment/ – meant /ment/
+Встречать(ся) – meet /miːt/ – met /met/ – met /met/
+Платить – pay /peɪ/ – paid /peɪd/ – paid /peɪd/
+Класть, ставить – put /pʊt/ – put /pʊt/ – put /pʊt/
+Читать – read /riːd/ – read /red/ – read /red/
+Ездить верхом – ride /raɪd/ – rode /rəʊd/ – ridden /ˈrɪd(ə)n/
+Звонить, звенеть – ring /rɪŋ/ – rang /ræŋ/ – rung /rʌŋ/
+Подниматься – rise /raɪz/ – rose /rəʊz/ – risen /ˈrɪz(ə)n/
+Бежать, управлять – run /rʌn/ – ran /ræn/ – run /rʌn/
+Говорить, сказать – say /seɪ/ – said /sed/ – said /sed/
+Видеть – see /siː/ – saw /sɔː/ – seen /siːn/
+Продавать – sell /sel/ – sold /səʊld/ – sold /səʊld/
+Посылать, отправлять – send /send/ – sent /sent/ – sent /sent/
+Устанавливать, задавать – set /set/ – set /set/ – set /set/
+Трясти(сь) – shake /ʃeɪk/ – shook /ʃʊk/ – shaken /ˈʃeɪkən/
+Светить(ся) – shine /ʃaɪn/ – shone /ʃɒn/ (shined) – shone /ʃɒn/ (shined)
+Стрелять – shoot /ʃuːt/ – shot /ʃɒt/ – shot /ʃɒt/
+Показывать – show /ʃəʊ/ – showed /ʃəʊd/ – shown /ʃəʊn/ (showed)
+Закрывать – shut /ʃʌt/ – shut /ʃʌt/ – shut /ʃʌt/
+Петь – sing /sɪŋ/ – sang /sæŋ/ – sung /sʌŋ/
+Тонуть, погружаться – sink /sɪŋk/ – sank /sæŋk/ – sunk /sʌŋk/
+Сидеть – sit /sɪt/ – sat /sæt/ – sat /sæt/
+Спать – sleep /sliːp/ – slept /slept/ – slept /slept/
+Говорить (на языке) – speak /spiːk/ – spoke /spəʊk/ – spoken /ˈspəʊkən/
+Скорость, мчаться – speed /spiːd/ – sped /sped/ (speeded) – sped /sped/ (speeded)
+Тратить (время, деньги) – spend /spend/ – spent /spent/ – spent /spent/
+Разливать, проливать – spill /spɪl/ – spilt /spɪlt/ (spilled) – spilt /spɪlt/ (spilled)
+Крутить, вращать – spin /spɪn/ – spun /spʌn/ – spun /spʌn/
+Плевать – spit /spɪt/ – spat /spæt/ (spit) – spat /spæt/ (spit)
+Раскалывать(ся) – split /splɪt/ – split /splɪt/ – split /splɪt/
+Распространять(ся) – spread /spred/ – spread /spred/ – spread /spred/
+Стоять – stand /stænd/ – stood /stʊd/ – stood /stʊd/
+Красть – steal /stiːl/ – stole /stəʊl/ – stolen /ˈstəʊlən/
+Колоть, прилипать – stick /stɪk/ – stuck /stʌk/ – stuck /stʌk/
+Ударять, бастовать – strike /straɪk/ – struck /strʌk/ – struck /strʌk/ (stricken /ˈstrɪkən/)
+Клясться – swear /sweə(r)/ – swore /swɔː(r)/ – sworn /swɔːn/
+Подметать – sweep /swiːp/ – swept /swept/ – swept /swept/
+Набухать, раздуваться – swell /swel/ – swelled /sweld/ – swollen /ˈswəʊlən/ (swelled)
+Плавать – swim /swɪm/ – swam /swæm/ – swum /swʌm/
+Качать(ся) – swing /swɪŋ/ – swung /swʌŋ/ – swung /swʌŋ/
+Брать, принимать – take /teɪk/ – took /tʊk/ – taken /ˈteɪkən/
+Учить, обучать – teach /tiːtʃ/ – taught /tɔːt/ – taught /tɔːt/
+Рвать(ся) – tear /teə(r)/ – tore /tɔː(r)/ – torn /tɔːn/
+Рассказывать – tell /tel/ – told /təʊld/ – told /təʊld/
+Думать – think /θɪŋk/ – thought /θɔːt/ – thought /θɔːt/
+Бросать – throw /θrəʊ/ – threw /θruː/ – thrown /θrəʊn/
+Понимать – understand /ˌʌndəˈstænd/ – understood /ˌʌndəˈstʊd/ – understood /ˌʌndəˈstʊd/
+Будить, просыпаться – wake /weɪk/ – woke /wəʊk/ – woken /ˈwəʊkən/
+Носить (одежду) – wear /weə(r)/ – wore /wɔː(r)/ – worn /wɔːn/
+Ткать – weave /wiːv/ – wove /wəʊv/ – woven /ˈwəʊv(ə)n/
+Плакать – weep /wiːp/ – wept /wept/ – wept /wept/
+Выигрывать, побеждать – win /wɪn/ – won /wʌn/ – won /wʌn/
+Отводить, снимать (деньги) – withdraw /wɪðˈdrɔː/ – withdrew /wɪðˈdruː/ – withdrawn /wɪðˈdrɔːn/
+Извиваться, обматывать – wind /waɪnd/ – wound /waʊnd/ – wound /waʊnd/
+Писать – write /raɪt/ – wrote /rəʊt/ – written /ˈrɪt(ə)n/
